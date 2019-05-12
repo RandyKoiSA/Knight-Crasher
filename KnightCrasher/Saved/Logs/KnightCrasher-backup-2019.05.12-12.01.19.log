@@ -1,0 +1,1236 @@
+<<<<<<< Updated upstream
+﻿Log file open, 05/12/19 04:24:02
+=======
+﻿Log file open, 05/12/19 10:57:49
+>>>>>>> Stashed changes
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: KnightCrasher
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+<<<<<<< Updated upstream
+LogStats: Stats thread started at 0.292187
+=======
+LogStats: Stats thread started at 0.271037
+>>>>>>> Stashed changes
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+<<<<<<< Updated upstream
+LogStreaming: Display: Took  0.087s to configure plugins.
+=======
+LogStreaming: Display: Took  0.075s to configure plugins.
+>>>>>>> Stashed changes
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz, GPU: NVIDIA Quadro M2000
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: K:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+<<<<<<< Updated upstream
+[2019.05.12-11.24.02:552][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.12-11.24.02:552][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.12-11.24.02:563][  0]LogHAL: Display: Platform has ~ 16 GB [17112944640 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.12-11.24.02:563][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.05.12-11.24.02:563][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.12-11.24.02:563][  0]LogInit: Computer: DESKTOP-8E615QP
+[2019.05.12-11.24.02:563][  0]LogInit: User: Jax
+[2019.05.12-11.24.02:563][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.12-11.24.02:563][  0]LogInit: High frequency timer resolution =3.410070 MHz
+[2019.05.12-11.24.02:564][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.12-11.24.02:564][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.12-11.24.02:564][  0]LogMemory: Process Physical Memory: 101.65 MB used, 101.65 MB peak
+[2019.05.12-11.24.02:564][  0]LogMemory: Process Virtual Memory: 89.51 MB used, 89.51 MB peak
+[2019.05.12-11.24.02:564][  0]LogMemory: Physical Memory: 5122.90 MB used,  11197.27 MB free, 16320.18 MB total
+[2019.05.12-11.24.02:564][  0]LogMemory: Virtual Memory: 4644.21 MB used,  11197.27 MB free, 134217728.00 MB total
+[2019.05.12-11.24.02:587][  0]LogInit: Using OS detected language (en-US).
+[2019.05.12-11.24.02:587][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.12-11.24.02:587][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.12-11.24.02:932][  0]LogStreaming: Display: Took  0.345s to InitEngineTextLocalization.
+[2019.05.12-11.24.02:932][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.12-11.24.02:970][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.12-11.24.02:970][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.12-11.24.03:203][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2019.05.12-11.24.03:203][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.12-11.24.03:268][  0]LogD3D11RHI:    0. 'NVIDIA Quadro M2000' (Feature Level 11_0)
+[2019.05.12-11.24.03:268][  0]LogD3D11RHI:       4044/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.05.12-11.24.03:271][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.12-11.24.03:271][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.12-11.24.03:271][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.12-11.24.03:278][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.12-11.24.03:278][  0]LogD3D11RHI:     GPU DeviceId: 0x1430 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.12-11.24.03:278][  0]LogWindows: EnumDisplayDevices:
+[2019.05.12-11.24.03:278][  0]LogWindows:    0. 'NVIDIA Quadro M2000' (P:1 D:1)
+[2019.05.12-11.24.03:279][  0]LogWindows:    1. 'NVIDIA Quadro M2000' (P:0 D:1)
+[2019.05.12-11.24.03:279][  0]LogWindows:    2. 'NVIDIA Quadro M2000' (P:0 D:0)
+[2019.05.12-11.24.03:280][  0]LogWindows:    3. 'NVIDIA Quadro M2000' (P:0 D:0)
+[2019.05.12-11.24.03:280][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.05.12-11.24.03:280][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro M2000
+[2019.05.12-11.24.03:280][  0]LogD3D11RHI:   Driver Version: 416.30 (internal:25.21.14.1630, unified:416.30)
+[2019.05.12-11.24.03:280][  0]LogD3D11RHI:      Driver Date: 10-9-2018
+[2019.05.12-11.24.03:280][  0]LogRHI: Texture pool is 2830 MB (70% of 4044 MB)
+[2019.05.12-11.24.03:322][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.12-11.24.03:344][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.05.12-11.24.03:347][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Intermediate/Shaders/WorkingDirectory/16772/).
+[2019.05.12-11.24.03:347][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jax/AppData/Local/Temp/UnrealShaderWorkingDir/36EAC97B4ACC6BA294BACF9F8F2C9602/'.
+[2019.05.12-11.24.03:605][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.12-11.24.03:618][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.12-11.24.03:630][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.12-11.24.03:642][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.12-11.24.03:654][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.12-11.24.03:666][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.12-11.24.03:678][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.12-11.24.03:691][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.12-11.24.03:696][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.12-11.24.03:770][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-11.24.03:770][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-11.24.03:770][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-11.24.03:770][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-11.24.03:770][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-11.24.03:770][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-11.24.03:771][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-11.24.03:771][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-11.24.03:771][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-11.24.03:771][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-11.24.03:771][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-11.24.03:771][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-11.24.03:771][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-11.24.03:771][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-11.24.03:771][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-11.24.03:771][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-11.24.03:771][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-11.24.03:771][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-11.24.03:772][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.12-11.24.03:831][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.12-11.24.03:831][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.12-11.24.03:856][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.12-11.24.03:856][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.12-11.24.03:868][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.12-11.24.03:880][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.12-11.24.03:893][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.12-11.24.03:905][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.12-11.24.03:914][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.12-11.24.03:914][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.12-11.24.03:964][  0]LogXGEController: Cleaning working directory: C:/Users/Jax/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.12-11.24.03:964][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.12-11.24.03:964][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.12-11.24.03:964][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.12-11.24.04:696][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.12-11.24.04:775][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/Jax/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.12-11.24.04:777][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jax/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.05.12-11.24.04:777][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.12-11.24.04:777][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.12-11.24.04:777][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.12-11.24.04:777][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.12-11.24.04:792][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.12-11.24.04:804][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jax/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.12-11.24.04:804][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.12-11.24.04:804][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.12-11.24.04:825][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.12-11.24.04:826][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.12-11.24.04:827][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.12-11.24.04:900][  0]LogAssetRegistry: FAssetRegistry took 0.0261 seconds to start up
+[2019.05.12-11.24.05:224][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.12-11.24.05:352][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.12-11.24.05:356][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.12-11.24.05:356][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.12-11.24.05:356][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.12-11.24.05:356][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.12-11.24.05:378][  0]LogNetVersion: KnightCrasher 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 588298797)
+[2019.05.12-11.24.05:874][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.088713 seconds
+[2019.05.12-11.24.05:881][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.05.12-11.24.05:881][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.05.12-11.24.05:881][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.12-11.24.06:636][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.12-11.24.06:650][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.12-11.24.06:788][  0]SourceControl: Source control is disabled
+[2019.05.12-11.24.06:789][  0]SourceControl: Source control is disabled
+[2019.05.12-11.24.06:790][  0]SourceControl: Source control is disabled
+[2019.05.12-11.24.06:791][  0]SourceControl: Source control is disabled
+[2019.05.12-11.24.06:954][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.12-11.24.07:071][  0]LogOcInput: OculusInput pre-init called
+[2019.05.12-11.24.07:127][  0]LogEngine: Initializing Engine...
+[2019.05.12-11.24.07:161][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2019.05.12-11.24.07:163][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.12-11.24.07:163][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.12-11.24.07:163][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.12-11.24.07:163][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.12-11.24.07:360][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.12-11.24.07:382][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.12-11.24.07:432][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.12-11.24.07:449][  0]LogInit: FAudioDevice initialized.
+[2019.05.12-11.24.07:449][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.12-11.24.07:554][  0]LogDerivedDataCache: Saved boot cache 0.10s 71MB C:/Users/Jax/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.12-11.24.07:557][  0]LogInit: Texture streaming: Enabled
+[2019.05.12-11.24.07:573][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.12-11.24.07:573][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={71E27CC5-479C-086B-5EAE-19BB7F69D94A}
+[2019.05.12-11.24.07:585][  0]LogInit: Transaction tracking system initialized
+[2019.05.12-11.24.07:603][  0]BlueprintLog: New page: Editor Load
+[2019.05.12-11.24.07:666][  0]LocalizationService: Localization service is disabled
+[2019.05.12-11.24.07:916][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.12-11.24.07:916][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.12-11.24.07:916][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.12-11.24.07:916][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.12-11.24.07:916][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.12-11.24.07:917][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.12-11.24.07:917][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.12-11.24.08:028][  0]LogFileCache: Scanning file cache for directory 'K:/Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/' took 0.02s
+[2019.05.12-11.24.08:028][  0]SourceControl: Source control is disabled
+[2019.05.12-11.24.08:028][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/Maps/Intro_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.12-11.24.08:029][  0]LightingResults: New page: Lighting Build
+[2019.05.12-11.24.08:031][  0]MapCheck: New page: Map Check
+[2019.05.12-11.24.08:031][  0]LightingResults: New page: Lighting Build
+[2019.05.12-11.24.08:567][  0]LogAIModule: Creating AISystem for world Intro_Map
+[2019.05.12-11.24.08:580][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.12-11.24.08:603][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.12-11.24.08:677][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 73.681ms to complete.
+[2019.05.12-11.24.08:677][  0]LogFileHelpers: Loading map 'Intro_Map' took 0.649
+[2019.05.12-11.24.08:778][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-11.24.08:786][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-11.24.08:792][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-11.24.08:800][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-11.24.08:805][  0]LogCollectionManager: Loaded 0 collections in 0.001112 seconds
+[2019.05.12-11.24.08:854][  0]LogFileCache: Scanning file cache for directory 'K:/Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/Collections/' took 0.01s
+[2019.05.12-11.24.08:854][  0]LogFileCache: Scanning file cache for directory 'K:/Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/Developers/Jax/Collections/' took 0.01s
+[2019.05.12-11.24.08:854][  0]LogFileCache: Scanning file cache for directory 'K:/Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/Collections/' took 0.01s
+[2019.05.12-11.24.08:854][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.12-11.24.08:863][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2572 classes and 603 folders.
+[2019.05.12-11.24.08:870][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.12-11.24.08:914][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.12-11.24.08:918][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.05.12-11.24.08:932][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.12-11.24.08:933][  0]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.12-11.24.08:939][  0]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.12-11.24.09:009][  0]LogRenderer: Reallocating scene render targets to support 1004x464 Format 10 NumSamples 1 (Frame:1).
+[2019.05.12-11.24.09:125][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.12-11.24.09:125][  0]LogLoad: (Engine Initialization) Total time: 8.16 seconds
+[2019.05.12-11.24.09:125][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.12-11.24.09:166][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.12-11.24.09:189][  0]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.12-11.24.09:302][  2]LogAssetRegistry: Asset discovery search completed in 4.4247 seconds
+[2019.05.12-11.24.09:304][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.12-11.24.09:304][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
+[2019.05.12-11.24.10:634][  6]LogSlate: Took 0.000400 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.12-11.24.15:335][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.12-11.24.15:390][ 20]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/KnightCrasher/UI/WBP_ControllButtons.WBP_ControllButtons
+[2019.05.12-11.24.15:809][ 20]LogClass: Warning: Enum '/Game/UI_Kit/Blueprints/Objectives/E_ObjectiveType.E_ObjectiveType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.05.12-11.24.15:810][ 20]LogClass: Warning: Enum '/Game/UI_Kit/Showcase/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.05.12-11.24.15:813][ 20]LogClass: Warning: Enum '/Game/UI_Kit/Widgets/Window/ResizeType.ResizeType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.05.12-11.24.15:828][ 20]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2019.05.12-11.24.16:565][ 20]LogSlate: Took 0.000542 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.12-11.24.38:960][115]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.12-11.25.17:827][159]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/KnightCrasher/UI/Pause_Menu.Pause_Menu
+[2019.05.12-11.25.49:653][731]BlueprintLog: New page: Compile WBP_ControllButtons
+[2019.05.12-11.25.49:667][731]LogBlueprint: Error: [Compiler WBP_ControllButtons] The type of  Object  is undetermined.  Connect something to  Cast To Pause_Menu  to imply a specific type.
+[2019.05.12-11.25.49:668][731]LogBlueprint: Error: [Compiler WBP_ControllButtons] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2019.05.12-11.25.49:704][731]LogBlueprint: Warning: [Compiler WBP_ControllButtons] [0108.74] Compile of WBP_ControllButtons failed. 2 Fatal Issue(s) 0 Warning(s) [in 51 ms] (/Game/KnightCrasher/UI/WBP_ControllButtons.WBP_ControllButtons)
+[2019.05.12-11.26.49:812][492]BlueprintLog: New page: Compile WBP_ControllButtons
+[2019.05.12-11.26.53:355][650]LogSlate: Window 'Pause_Menu' being destroyed
+[2019.05.12-11.26.53:358][650]LogSlate: Window 'Pause_Menu' being destroyed
+[2019.05.12-11.26.54:711][799]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/KnightCrasher/UI/Pause_Menu.Pause_Menu
+[2019.05.12-11.31.16:641][187]LogAssetTools: Warning: Failed to import 'C:\Users\Jax\Downloads\Texture Set.zip'. Unknown extension 'zip'.
+[2019.05.12-11.34.09:839][497]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/KnightCrasher/Maps/Intro_Map' took 0.029
+[2019.05.12-11.34.09:841][497]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KnightCrasher/UI/WBP_ControllButtons] ([1] browsable assets)...
+[2019.05.12-11.34.09:841][497]OBJ SavePackage: Finished generating thumbnails for package [/Game/KnightCrasher/UI/WBP_ControllButtons]
+[2019.05.12-11.34.09:875][497]LogSavePackage: Moving '../../../../../../Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/WBP_ControllButtons_Auto1CCED808C45A5D4E1B0564A89E5B0890F.tmp' to '../../../../../../Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/Autosaves/Game/KnightCrasher/UI/WBP_ControllButtons_Auto1.uasset'
+[2019.05.12-11.34.09:914][497]LogFileHelpers: Auto-saving content packages took 0.074
+[2019.05.12-11.35.08:097][334]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.12-11.35.08:101][334]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.12-11.35.08:105][334]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.12-11.35.08:107][334]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.12-11.35.08:110][334]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.12-11.35.08:124][334]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.12-11.36.19:446][844]BlueprintLog: New page: Compile Pause_Menu
+[2019.05.12-11.36.21:070][905]LogTemp: Repeating last play command: Mobile Preview ES2 (PIE)
+[2019.05.12-11.36.22:421][905]LogSlate: Window 'Save Content' being destroyed
+[2019.05.12-11.36.22:447][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KnightCrasher/UI/Pause_Menu" FILE="../../../../../../Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/UI/Pause_Menu.uasset" SILENT=true
+[2019.05.12-11.36.22:477][905]LogSavePackage: Moving '../../../../../../Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/Pause_Menu5B7866F34AA4F48C233FA393A71BE8B4.tmp' to '../../../../../../Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/UI/Pause_Menu.uasset'
+[2019.05.12-11.36.22:510][905]LogSavePackage: Moving '../../../../../../Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/WBP_ControllButtonsC6E46F8C4B6D74CEBEE9E598ACD0469F.tmp' to '../../../../../../Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/UI/WBP_ControllButtons.uasset'
+[2019.05.12-11.36.48:265][483]LogEditorTransaction: Undo Changed Anchors
+[2019.05.12-11.36.49:209][527]LogEditorTransaction: Undo Changed Anchors
+[2019.05.12-11.36.51:925][566]LogEditorTransaction: Undo Move Widget
+[2019.05.12-11.36.52:579][594]LogEditorTransaction: Undo Resize Widget
+[2019.05.12-11.36.53:227][625]LogEditorTransaction: Undo Edit Size
+[2019.05.12-11.36.53:891][655]LogEditorTransaction: Undo Edit Text
+[2019.05.12-11.36.54:369][677]LogEditorTransaction: Undo Replace Widgets
+[2019.05.12-11.36.55:502][732]LogEditorTransaction: Undo Resize Widget
+[2019.05.12-11.36.56:175][763]LogEditorTransaction: Undo Edit Size
+[2019.05.12-11.36.56:728][786]LogEditorTransaction: Undo Edit Text
+[2019.05.12-11.36.57:162][805]LogEditorTransaction: Undo Rename Widget
+[2019.05.12-11.36.57:695][828]LogEditorTransaction: Undo Replace Widgets
+[2019.05.12-11.38.28:816][350]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.12-11.38.46:200][184]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.12-11.39.06:531][200]BlueprintLog: New page: Compile Pause_Menu
+[2019.05.12-11.39.07:450][242]LogTemp: Repeating last play command: Mobile Preview ES2 (PIE)
+[2019.05.12-11.39.08:563][242]LogSlate: Window 'Save Content' being destroyed
+[2019.05.12-11.39.08:583][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KnightCrasher/UI/Pause_Menu" FILE="../../../../../../Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/UI/Pause_Menu.uasset" SILENT=true
+[2019.05.12-11.39.08:610][242]LogSavePackage: Moving '../../../../../../Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/Pause_Menu01A210F744C7161A972F6D8AAB886E54.tmp' to '../../../../../../Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/UI/Pause_Menu.uasset'
+[2019.05.12-11.40.23:617][842]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.12-11.40.23:619][842]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.12-11.40.23:621][842]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.12-11.40.23:625][842]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.12-11.40.23:626][842]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.12-11.40.23:629][842]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.12-11.41.10:395][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KnightCrasher/UI/Pause_Menu" FILE="../../../../../../Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/UI/Pause_Menu.uasset" SILENT=true
+[2019.05.12-11.41.10:424][ 15]LogSavePackage: Moving '../../../../../../Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/Pause_Menu31ECACB9401D1A6CAD2EE5875B059D8B.tmp' to '../../../../../../Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/UI/Pause_Menu.uasset'
+[2019.05.12-11.41.11:694][ 75]BlueprintLog: New page: Compile Pause_Menu
+[2019.05.12-11.41.13:488][133]LogTemp: Repeating last play command: Mobile Preview ES2 (PIE)
+[2019.05.12-11.41.35:777][715]BlueprintLog: New page: Compile Pause_Menu
+[2019.05.12-11.41.36:705][756]LogTemp: Repeating last play command: Mobile Preview ES2 (PIE)
+[2019.05.12-11.41.39:982][756]LogSlate: Window 'Save Content' being destroyed
+[2019.05.12-11.41.40:002][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KnightCrasher/UI/Pause_Menu" FILE="../../../../../../Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/UI/Pause_Menu.uasset" SILENT=true
+[2019.05.12-11.41.40:034][756]LogSavePackage: Moving '../../../../../../Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/Pause_MenuE885653945E0963DF6BB17B40A4F0A51.tmp' to '../../../../../../Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/UI/Pause_Menu.uasset'
+[2019.05.12-11.41.59:083][ 35]BlueprintLog: New page: Compile Pause_Menu
+[2019.05.12-11.42.00:030][ 76]LogTemp: Repeating last play command: Mobile Preview ES2 (PIE)
+[2019.05.12-11.42.02:537][ 76]LogSlate: Window 'Save Content' being destroyed
+[2019.05.12-11.42.02:556][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KnightCrasher/UI/Pause_Menu" FILE="../../../../../../Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/UI/Pause_Menu.uasset" SILENT=true
+[2019.05.12-11.42.02:583][ 76]LogSavePackage: Moving '../../../../../../Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/Pause_Menu046E4FF04CAB184A69E8FC929E1FBA4A.tmp' to '../../../../../../Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/UI/Pause_Menu.uasset'
+[2019.05.12-11.42.22:179][272]LogSlate: Window 'Pause_Menu' being destroyed
+[2019.05.12-11.42.22:182][272]LogSlate: Window 'Pause_Menu' being destroyed
+[2019.05.12-11.42.23:713][436]LogSavePackage: Moving '../../../../../../Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/Intro_MapFB48AA7E4ADCDED0BDE0D79B31B7A8BC.tmp' to '../../../../../../Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/Maps/Intro_Map.umap'
+[2019.05.12-11.42.23:818][436]LogSavePackage: Moving '../../../../../../Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/Intro_Map_BuiltDataCB2903164508519358DF42910EE080EF.tmp' to '../../../../../../Users/Jax/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/Maps/Intro_Map_BuiltData.uasset'
+=======
+[2019.05.12-17.57.50:086][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.12-17.57.50:086][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.12-17.57.50:096][  0]LogHAL: Display: Platform has ~ 16 GB [17041506304 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.12-17.57.50:096][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.05.12-17.57.50:096][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.12-17.57.50:096][  0]LogInit: Computer: DESKTOP-11RD2JH
+[2019.05.12-17.57.50:096][  0]LogInit: User: 97randy
+[2019.05.12-17.57.50:096][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.12-17.57.50:096][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.05.12-17.57.50:097][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.12-17.57.50:097][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.12-17.57.50:097][  0]LogMemory: Process Physical Memory: 102.34 MB used, 102.34 MB peak
+[2019.05.12-17.57.50:097][  0]LogMemory: Process Virtual Memory: 89.60 MB used, 89.60 MB peak
+[2019.05.12-17.57.50:097][  0]LogMemory: Physical Memory: 6888.61 MB used,  9363.43 MB free, 16252.05 MB total
+[2019.05.12-17.57.50:097][  0]LogMemory: Virtual Memory: 4641.71 MB used,  9363.43 MB free, 134217728.00 MB total
+[2019.05.12-17.57.50:116][  0]LogInit: Using OS detected language (en-US).
+[2019.05.12-17.57.50:116][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.12-17.57.50:116][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.12-17.57.50:405][  0]LogStreaming: Display: Took  0.289s to InitEngineTextLocalization.
+[2019.05.12-17.57.50:405][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.12-17.57.50:435][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.12-17.57.50:435][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.12-17.57.50:608][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.12-17.57.50:608][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.12-17.57.50:659][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.05.12-17.57.50:659][  0]LogD3D11RHI:       6061/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.12-17.57.50:669][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.05.12-17.57.50:669][  0]LogD3D11RHI:       128/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.05.12-17.57.50:671][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.12-17.57.50:671][  0]LogD3D11RHI:       0/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.12-17.57.50:671][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.12-17.57.50:677][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.12-17.57.50:677][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.12-17.57.50:677][  0]LogWindows: EnumDisplayDevices:
+[2019.05.12-17.57.50:677][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:0 D:1)
+[2019.05.12-17.57.50:678][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.05.12-17.57.50:678][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.05.12-17.57.50:678][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.05.12-17.57.50:679][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.05.12-17.57.50:679][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.05.12-17.57.50:679][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.05.12-17.57.50:679][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.05.12-17.57.50:679][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.05.12-17.57.50:679][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2019.05.12-17.57.50:679][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2019.05.12-17.57.50:679][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2019.05.12-17.57.50:707][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.12-17.57.50:721][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.12-17.57.50:774][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Intermediate/Shaders/WorkingDirectory/17136/).
+[2019.05.12-17.57.50:774][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/97randy/AppData/Local/Temp/UnrealShaderWorkingDir/A09445744D92F341D3C13AB2B08CFF45/'.
+[2019.05.12-17.57.51:114][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.12-17.57.51:128][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.12-17.57.51:140][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.12-17.57.51:152][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.12-17.57.51:164][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.12-17.57.51:178][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.12-17.57.51:189][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.12-17.57.51:201][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.12-17.57.51:206][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.12-17.57.51:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-17.57.51:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-17.57.51:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-17.57.51:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-17.57.51:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-17.57.51:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-17.57.51:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-17.57.51:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-17.57.51:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-17.57.51:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-17.57.51:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-17.57.51:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-17.57.51:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-17.57.51:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-17.57.51:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-17.57.51:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-17.57.51:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-17.57.51:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.12-17.57.51:278][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.12-17.57.51:335][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.12-17.57.51:335][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.12-17.57.51:355][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.12-17.57.51:355][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.12-17.57.51:365][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.12-17.57.51:375][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.12-17.57.51:386][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.12-17.57.51:397][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.12-17.57.51:405][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.12-17.57.51:405][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.12-17.57.51:447][  0]LogXGEController: Cleaning working directory: C:/Users/97randy/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.12-17.57.51:447][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.12-17.57.51:447][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.12-17.57.51:447][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.12-17.57.52:043][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.12-17.57.52:086][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/97randy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.12-17.57.52:086][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/97randy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.05.12-17.57.52:086][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.12-17.57.52:086][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.12-17.57.52:086][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.12-17.57.52:086][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.12-17.57.52:099][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.12-17.57.52:110][  0]LogDerivedDataCache: Using Local data cache path C:/Users/97randy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.12-17.57.52:110][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.12-17.57.52:110][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.12-17.57.52:125][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.12-17.57.52:126][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.12-17.57.52:127][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.12-17.57.52:194][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2019.05.12-17.57.52:453][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.12-17.57.52:579][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.12-17.57.52:582][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.12-17.57.52:582][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.12-17.57.52:582][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.12-17.57.52:582][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.12-17.57.52:595][  0]LogNetVersion: KnightCrasher 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 588298797)
+[2019.05.12-17.57.52:984][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.079886 seconds
+[2019.05.12-17.57.52:989][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.05.12-17.57.52:989][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.05.12-17.57.52:989][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.12-17.57.53:710][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.12-17.57.53:723][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.12-17.57.53:887][  0]SourceControl: Source control is disabled
+[2019.05.12-17.57.53:887][  0]SourceControl: Source control is disabled
+[2019.05.12-17.57.53:888][  0]SourceControl: Source control is disabled
+[2019.05.12-17.57.53:889][  0]SourceControl: Source control is disabled
+[2019.05.12-17.57.54:031][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.12-17.57.54:143][  0]LogOcInput: OculusInput pre-init called
+[2019.05.12-17.57.54:193][  0]LogEngine: Initializing Engine...
+[2019.05.12-17.57.54:193][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.12-17.57.54:195][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.12-17.57.54:195][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.12-17.57.54:195][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.12-17.57.54:195][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.12-17.57.54:358][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.12-17.57.54:367][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.12-17.57.54:440][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.12-17.57.54:480][  0]LogInit: FAudioDevice initialized.
+[2019.05.12-17.57.54:481][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.12-17.57.54:602][  0]LogDerivedDataCache: Saved boot cache 0.12s 71MB C:/Users/97randy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.12-17.57.54:606][  0]LogInit: Texture streaming: Enabled
+[2019.05.12-17.57.54:617][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.12-17.57.54:629][  0]LogInit: Transaction tracking system initialized
+[2019.05.12-17.57.54:644][  0]BlueprintLog: New page: Editor Load
+[2019.05.12-17.57.54:699][  0]LocalizationService: Localization service is disabled
+[2019.05.12-17.57.54:914][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.12-17.57.54:914][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.12-17.57.54:914][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.12-17.57.54:914][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.12-17.57.54:914][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.12-17.57.54:914][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.12-17.57.54:914][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.12-17.57.55:012][  0]LogFileCache: Scanning file cache for directory 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/' took 0.02s
+[2019.05.12-17.57.55:012][  0]SourceControl: Source control is disabled
+[2019.05.12-17.57.55:012][  0]Cmd: MAP LOAD FILE="D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/Maps/Intro_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.12-17.57.55:013][  0]LightingResults: New page: Lighting Build
+[2019.05.12-17.57.55:015][  0]MapCheck: New page: Map Check
+[2019.05.12-17.57.55:015][  0]LightingResults: New page: Lighting Build
+[2019.05.12-17.57.55:496][  0]LogAIModule: Creating AISystem for world Intro_Map
+[2019.05.12-17.57.55:506][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.12-17.57.55:528][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.12-17.57.55:586][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 57.613ms to complete.
+[2019.05.12-17.57.55:586][  0]LogFileHelpers: Loading map 'Intro_Map' took 0.574
+[2019.05.12-17.57.55:678][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-17.57.55:685][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-17.57.55:690][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-17.57.55:696][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-17.57.55:701][  0]LogCollectionManager: Loaded 0 collections in 0.001181 seconds
+[2019.05.12-17.57.55:741][  0]LogFileCache: Scanning file cache for directory 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/Collections/' took 0.01s
+[2019.05.12-17.57.55:741][  0]LogFileCache: Scanning file cache for directory 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/Developers/97randy/Collections/' took 0.01s
+[2019.05.12-17.57.55:741][  0]LogFileCache: Scanning file cache for directory 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/Collections/' took 0.01s
+[2019.05.12-17.57.55:741][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.12-17.57.55:749][  0]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2572 classes and 603 folders.
+[2019.05.12-17.57.55:755][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.12-17.57.55:800][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.12-17.57.55:803][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.05.12-17.57.55:857][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.12-17.57.55:858][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.12-17.57.55:864][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.12-17.57.55:925][  0]LogRenderer: Reallocating scene render targets to support 1208x540 Format 10 NumSamples 1 (Frame:1).
+[2019.05.12-17.57.56:017][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.12-17.57.56:017][  0]LogLoad: (Engine Initialization) Total time: 7.67 seconds
+[2019.05.12-17.57.56:017][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.12-17.57.56:050][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.12-17.57.56:076][  0]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.12-17.57.56:174][  2]LogAssetRegistry: Asset discovery search completed in 4.0026 seconds
+[2019.05.12-17.57.56:176][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.12-17.57.56:176][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2019.05.12-17.58.02:547][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.12-17.58.02:622][773]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.12-17.58.02:636][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.12-17.58.02:649][773]PIE: New page: PIE session: Intro_Map (May 12, 2019, 3:58:02 AM)
+[2019.05.12-17.58.02:649][773]LogPlayLevel: Creating play world package: /Game/KnightCrasher/Maps/UEDPIE_0_Intro_Map
+[2019.05.12-17.58.02:653][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004000s)
+[2019.05.12-17.58.02:654][773]LogAIModule: Creating AISystem for world Intro_Map
+[2019.05.12-17.58.02:654][773]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2019.05.12-17.58.02:654][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KnightCrasher/Maps/Intro_Map.Intro_Map to /Game/KnightCrasher/Maps/UEDPIE_0_Intro_Map.Intro_Map (0.004753s)
+[2019.05.12-17.58.02:683][773]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.12-17.58.02:717][773]LogInit: FAudioDevice initialized.
+[2019.05.12-17.58.02:726][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-17.58.02:780][773]LogLoad: Game class is 'KnightCrasher_Gamemode_C'
+[2019.05.12-17.58.02:783][773]LogWorld: Bringing World /Game/KnightCrasher/Maps/UEDPIE_0_Intro_Map.Intro_Map up for play (max tick rate 0) at 2019.05.12-10.58.02
+[2019.05.12-17.58.02:784][773]LogWorld: Bringing up level for play took: 0.002605
+[2019.05.12-17.58.02:799][773]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2019.05.12-17.58.02:804][773]PIE: Play in editor start time for /Game/KnightCrasher/Maps/UEDPIE_0_Intro_Map 0.279
+[2019.05.12-17.58.02:832][773]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2019.05.12-17.58.04:256][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-17.58.04:270][937]LogSlate: Window 'KnightCrasher Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.12-17.58.04:301][937]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.12-17.58.04:358][939]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.05.12-17.58.30:512][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pl_16m_Platform2)
+[2019.05.12-17.58.46:564][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.12-17.58.56:729][369]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.12-17.58.56:740][369]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Example/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.05.12-17.58.57:163][369]LogClass: Warning: Enum '/Game/UI_Kit/Blueprints/Objectives/E_ObjectiveType.E_ObjectiveType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.05.12-17.58.57:166][369]LogClass: Warning: Enum '/Game/UI_Kit/Showcase/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.05.12-17.58.57:169][369]LogClass: Warning: Enum '/Game/UI_Kit/Widgets/Window/ResizeType.ResizeType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.05.12-17.58.57:185][369]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2019.05.12-17.58.57:964][369]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.12-17.58.58:086][370]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.12-17.59.02:003][697]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.05.12-17.59.02:008][697]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.05.12-17.59.26:649][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.12-17.59.46:841][880]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/KnightCrasher/UI/WBP_LoadingScreen.WBP_LoadingScreen
+[2019.05.12-18.00.20:735][795]LogSlate: Window 'Save Asset As' being destroyed
+[2019.05.12-18.00.28:904][262]LogSlate: Window 'Save Asset As' being destroyed
+[2019.05.12-18.00.36:492][650]LogSlate: Window 'Save Asset As' being destroyed
+[2019.05.12-18.01.01:594][332]LogSlate: Took 0.083312 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2019.05.12-18.01.16:009][325]LogEditorTransaction: Undo Add Widget
+[2019.05.12-18.01.19:838][478]LogSlate: Window 'Save Asset As' being destroyed
+[2019.05.12-18.02.28:657][832]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.12-18.02.39:652][564]LogEditorTransaction: Undo Changed Anchors
+[2019.05.12-18.03.06:067][366]BlueprintLog: New page: Compile WBP_LoadingScreen
+[2019.05.12-18.03.16:581][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KnightCrasher/UI/WBP_LoadingScreen" FILE="D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/UI/WBP_LoadingScreen.uasset" SILENT=true
+[2019.05.12-18.03.16:594][ 93]LogSavePackage: Moving 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/WBP_LoadingScreenFEBA296043F4E9E968E2CDA738EEC4DE.tmp' to 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/UI/WBP_LoadingScreen.uasset'
+[2019.05.12-18.03.18:220][207]LogSlate: Window 'WBP_LoadingScreen' being destroyed
+[2019.05.12-18.03.18:224][207]LogSlate: Window 'WBP_LoadingScreen' being destroyed
+[2019.05.12-18.03.50:666][225]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.05.12-18.04.05:350][952]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/KnightCrasher/GameInstance_KnightCrasher.GameInstance_KnightCrasher
+[2019.05.12-18.04.25:256][167]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.12-18.04.49:133][904]BlueprintLog: New page: Compile GameInstance_KnightCrasher
+[2019.05.12-18.04.51:581][176]BlueprintLog: New page: Compile GameInstance_KnightCrasher
+[2019.05.12-18.04.52:964][332]LogSavePackage: Moving 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/GameInstance_KnightCrasherEA333E884B39D29C9DD2DF8009F44B44.tmp' to 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/GameInstance_KnightCrasher.uasset'
+[2019.05.12-18.05.05:972][825]BlueprintLog: New page: Compile GameInstance_KnightCrasher
+[2019.05.12-18.05.06:517][875]LogSavePackage: Moving 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/GameInstance_KnightCrasherEEFDD1A141772813579FDCB12D551076.tmp' to 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/GameInstance_KnightCrasher.uasset'
+[2019.05.12-18.05.12:695][600]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/KnightCrasher/UI/WBP_MainMenu.WBP_MainMenu
+[2019.05.12-18.06.09:138][ 57]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.05.12-18.06.28:535][344]BlueprintLog: New page: Compile GameInstance_KnightCrasher
+[2019.05.12-18.06.29:995][513]LogSlate: Window 'WBP_MainMenu*' being destroyed
+[2019.05.12-18.06.29:999][513]LogSlate: Window 'WBP_MainMenu*' being destroyed
+[2019.05.12-18.06.33:514][910]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.12-18.06.41:919][884]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2019.05.12-18.06.41:919][884]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2019.05.12-18.06.41:919][884]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2019.05.12-18.06.45:530][ 23]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.05.12-18.06.45:629][ 24]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.KnightCrasher
+[2019.05.12-18.06.45:630][ 24]LogTemp: CWD: E:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.05.12-18.06.45:630][ 24]LogTemp: Initial Dir: E:\Program Files\Epic Games\UE_4.20
+[2019.05.12-18.06.45:630][ 24]LogTemp: Env CWD: E:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.05.12-18.06.45:630][ 24]LogTemp: BranchPath = DESKTOP-11RD2JH/E/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-11RD2JH/E/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2019.05.12-18.06.45:668][ 25]LogTemp: CERTIFICATE-Name:iPhone Developer: Randy Le (5L6A3JWAJC),Validity:VALID,StartDate:2019-04-24T06:34:04.0000000Z,EndDate:2020-04-23T06:34:04.0000000Z
+[2019.05.12-18.06.45:668][ 25]LogTemp: CERTIFICATE-Name:iPhone Developer: Randy Le (5L6A3JWAJC),Validity:VALID,StartDate:2019-03-22T00:25:42.0000000Z,EndDate:2020-03-21T00:25:42.0000000Z
+[2019.05.12-18.06.45:668][ 25]LogTemp: CERTIFICATE-Name:iPhone Developer: Randy Le (5L6A3JWAJC),Validity:VALID,StartDate:2019-04-19T06:13:26.0000000Z,EndDate:2020-04-18T06:13:26.0000000Z
+[2019.05.12-18.06.45:708][ 26]LogTemp:   Looking for a certificate that matches the application identifier 'SF2329RVF5.com.KoiSA.Adventure'
+[2019.05.12-18.06.45:708][ 26]LogTemp:   .. Provision entry SN '13F9845B3FC0D92C' matched 0 installed certificate(s)
+[2019.05.12-18.06.45:708][ 26]LogTemp:   .. Provision entry SN '12AD40141047AEEC' matched 1 installed certificate(s)
+[2019.05.12-18.06.45:708][ 26]LogTemp:   .. .. Installed certificate 'iPhone Developer: Randy Le (5L6A3JWAJC)' is valid (choosing it) (range '4/23/2019 11:34:04 PM' to '4/22/2020 11:34:04 PM')
+[2019.05.12-18.06.45:708][ 26]LogTemp: PROVISION-File:Adventure.mobileprovision,Name:AdventureProvision,Validity:NO_MATCH,StartDate:4/24/2019 7:03:34 AM,EndDate:4/23/2020 7:03:34 AM,Type:DEVELOPMENT
+[2019.05.12-18.06.45:708][ 26]LogTemp:   Looking for a certificate that matches the application identifier 'SF2329RVF5.com.KoiSA.Adventure'
+[2019.05.12-18.06.45:708][ 26]LogTemp:   .. Provision entry SN '13F9845B3FC0D92C' matched 0 installed certificate(s)
+[2019.05.12-18.06.45:708][ 26]LogTemp:   .. Provision entry SN '12AD40141047AEEC' matched 1 installed certificate(s)
+[2019.05.12-18.06.45:708][ 26]LogTemp:   .. .. Installed certificate 'iPhone Developer: Randy Le (5L6A3JWAJC)' is valid (choosing it) (range '4/23/2019 11:34:04 PM' to '4/22/2020 11:34:04 PM')
+[2019.05.12-18.06.45:708][ 26]LogTemp: PROVISION-File:AdventureProvision.mobileprovision,Name:AdventureProvision,Validity:NO_MATCH,StartDate:4/24/2019 7:03:34 AM,EndDate:4/23/2020 7:03:34 AM,Type:DEVELOPMENT
+[2019.05.12-18.06.45:727][ 27]LogTemp:   Looking for a certificate that matches the application identifier 'SF2329RVF5.ProjectKoiSA*'
+[2019.05.12-18.06.45:727][ 27]LogTemp:   .. Provision entry SN '53CF97AA71532D15' matched 0 installed certificate(s)
+[2019.05.12-18.06.45:727][ 27]LogTemp:   .. Provision entry SN '02F6CBC12B52ADFE' matched 0 installed certificate(s)
+[2019.05.12-18.06.45:727][ 27]LogTemp:   .. Provision entry SN '7E7ECC0975899B03' matched 1 installed certificate(s)
+[2019.05.12-18.06.45:727][ 27]LogTemp:   .. .. Installed certificate 'iPhone Developer: Randy Le (5L6A3JWAJC)' is valid (choosing it) (range '3/21/2019 5:25:42 PM' to '3/20/2020 5:25:42 PM')
+[2019.05.12-18.06.45:772][ 31]LogTemp: IPP ERROR: Application exception: System.ArgumentOutOfRangeException: Length cannot be less than zero.
+[2019.05.12-18.06.45:772][ 31]LogTemp: Parameter name: length
+[2019.05.12-18.06.45:772][ 31]LogTemp:    at System.String.Substring(Int32 startIndex, Int32 length)
+[2019.05.12-18.06.45:772][ 31]LogTemp:    at iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier) in D:\Build\++UE4\Sync\Saved\CsTools\Engine\Source\Programs\IOS\iPhonePackager\CodeSigning.cs:line 302
+[2019.05.12-18.06.45:772][ 31]LogTemp:    at iPhonePackager.Program.Main(String[] args) in D:\Build\++UE4\Sync\Saved\CsTools\Engine\Source\Programs\IOS\iPhonePackager\iPhonePackager.cs:line 903
+[2019.05.12-18.07.04:677][177]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.12-18.07.12:249][ 32]LogSlate: Window 'Project Settings' being destroyed
+[2019.05.12-18.07.12:254][ 32]LogSlate: Window 'Project Settings' being destroyed
+[2019.05.12-18.07.24:042][ 42]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/KnightCrasher/UI/WBP_MainMenu.WBP_MainMenu
+[2019.05.12-18.07.30:650][724]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.05.12-18.07.30:818][727]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.05.12-18.07.33:404][ 27]LogSlate: Window 'WBP_MainMenu*' being destroyed
+[2019.05.12-18.07.33:407][ 27]LogSlate: Window 'WBP_MainMenu*' being destroyed
+[2019.05.12-18.07.37:020][372]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.05.12-18.07.37:090][374]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.KnightCrasher
+[2019.05.12-18.07.37:091][374]LogTemp: CWD: E:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.05.12-18.07.37:091][374]LogTemp: Initial Dir: E:\Program Files\Epic Games\UE_4.20
+[2019.05.12-18.07.37:091][374]LogTemp: Env CWD: E:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.05.12-18.07.37:105][375]LogTemp: BranchPath = DESKTOP-11RD2JH/E/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-11RD2JH/E/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2019.05.12-18.07.37:118][376]LogTemp: CERTIFICATE-Name:iPhone Developer: Randy Le (5L6A3JWAJC),Validity:VALID,StartDate:2019-04-24T06:34:04.0000000Z,EndDate:2020-04-23T06:34:04.0000000Z
+[2019.05.12-18.07.37:118][376]LogTemp: CERTIFICATE-Name:iPhone Developer: Randy Le (5L6A3JWAJC),Validity:VALID,StartDate:2019-03-22T00:25:42.0000000Z,EndDate:2020-03-21T00:25:42.0000000Z
+[2019.05.12-18.07.37:118][376]LogTemp: CERTIFICATE-Name:iPhone Developer: Randy Le (5L6A3JWAJC),Validity:VALID,StartDate:2019-04-19T06:13:26.0000000Z,EndDate:2020-04-18T06:13:26.0000000Z
+[2019.05.12-18.07.37:141][378]LogTemp:   Looking for a certificate that matches the application identifier 'SF2329RVF5.com.KoiSA.Adventure'
+[2019.05.12-18.07.37:141][378]LogTemp:   .. Provision entry SN '13F9845B3FC0D92C' matched 0 installed certificate(s)
+[2019.05.12-18.07.37:141][378]LogTemp:   .. Provision entry SN '12AD40141047AEEC' matched 1 installed certificate(s)
+[2019.05.12-18.07.37:141][378]LogTemp:   .. .. Installed certificate 'iPhone Developer: Randy Le (5L6A3JWAJC)' is valid (choosing it) (range '4/23/2019 11:34:04 PM' to '4/22/2020 11:34:04 PM')
+[2019.05.12-18.07.37:141][378]LogTemp: PROVISION-File:Adventure.mobileprovision,Name:AdventureProvision,Validity:NO_MATCH,StartDate:4/24/2019 7:03:34 AM,EndDate:4/23/2020 7:03:34 AM,Type:DEVELOPMENT
+[2019.05.12-18.07.37:141][378]LogTemp:   Looking for a certificate that matches the application identifier 'SF2329RVF5.com.KoiSA.Adventure'
+[2019.05.12-18.07.37:152][379]LogTemp:   .. Provision entry SN '13F9845B3FC0D92C' matched 0 installed certificate(s)
+[2019.05.12-18.07.37:152][379]LogTemp:   .. Provision entry SN '12AD40141047AEEC' matched 1 installed certificate(s)
+[2019.05.12-18.07.37:152][379]LogTemp:   .. .. Installed certificate 'iPhone Developer: Randy Le (5L6A3JWAJC)' is valid (choosing it) (range '4/23/2019 11:34:04 PM' to '4/22/2020 11:34:04 PM')
+[2019.05.12-18.07.37:152][379]LogTemp: PROVISION-File:AdventureProvision.mobileprovision,Name:AdventureProvision,Validity:NO_MATCH,StartDate:4/24/2019 7:03:34 AM,EndDate:4/23/2020 7:03:34 AM,Type:DEVELOPMENT
+[2019.05.12-18.07.37:152][379]LogTemp:   Looking for a certificate that matches the application identifier 'SF2329RVF5.ProjectKoiSA*'
+[2019.05.12-18.07.37:152][379]LogTemp:   .. Provision entry SN '53CF97AA71532D15' matched 0 installed certificate(s)
+[2019.05.12-18.07.37:152][379]LogTemp:   .. Provision entry SN '02F6CBC12B52ADFE' matched 0 installed certificate(s)
+[2019.05.12-18.07.37:152][379]LogTemp:   .. Provision entry SN '7E7ECC0975899B03' matched 1 installed certificate(s)
+[2019.05.12-18.07.37:152][379]LogTemp:   .. .. Installed certificate 'iPhone Developer: Randy Le (5L6A3JWAJC)' is valid (choosing it) (range '3/21/2019 5:25:42 PM' to '3/20/2020 5:25:42 PM')
+[2019.05.12-18.07.37:161][380]LogTemp: IPP ERROR: Application exception: System.ArgumentOutOfRangeException: Length cannot be less than zero.
+[2019.05.12-18.07.37:161][380]LogTemp: Parameter name: length
+[2019.05.12-18.07.37:161][380]LogTemp:    at System.String.Substring(Int32 startIndex, Int32 length)
+[2019.05.12-18.07.37:161][380]LogTemp:    at iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier) in D:\Build\++UE4\Sync\Saved\CsTools\Engine\Source\Programs\IOS\iPhonePackager\CodeSigning.cs:line 302
+[2019.05.12-18.07.37:161][380]LogTemp:    at iPhonePackager.Program.Main(String[] args) in D:\Build\++UE4\Sync\Saved\CsTools\Engine\Source\Programs\IOS\iPhonePackager\iPhonePackager.cs:line 903
+[2019.05.12-18.07.54:364][366]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.12-18.08.01:807][213]LogSlate: Window 'Project Settings' being destroyed
+[2019.05.12-18.08.01:811][213]LogSlate: Window 'Project Settings' being destroyed
+[2019.05.12-18.08.02:544][287]LogSavePackage: Moving 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/Intro_MapF70FEA2F4DD8C1D3ABBC70A4A28A523C.tmp' to 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/Maps/Intro_Map.umap'
+[2019.05.12-18.08.02:700][287]LogSavePackage: Moving 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/Intro_Map_BuiltDataDBDF1644402A361ADB7E869694A19766.tmp' to 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/Maps/Intro_Map_BuiltData.uasset'
+[2019.05.12-18.08.08:560][769]LogAIModule: Creating AISystem for world MainMenu_Map
+[2019.05.12-18.08.08:598][769]LogAssetEditorManager: Opening Asset editor for World /Game/KnightCrasher/Maps/MainMenu_Map.MainMenu_Map
+[2019.05.12-18.08.09:722][769]LogSlate: Window 'Save Content' being destroyed
+[2019.05.12-18.08.09:746][769]LogSavePackage: Moving 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/GameInstance_KnightCrasher61F0469F41207A7C13AA53A6DCEE6D5F.tmp' to 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/GameInstance_KnightCrasher.uasset'
+[2019.05.12-18.08.09:749][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KnightCrasher/UI/WBP_MainMenu" FILE="D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/UI/WBP_MainMenu.uasset" SILENT=true
+[2019.05.12-18.08.09:784][769]LogSavePackage: Moving 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/WBP_MainMenu81429CB642FF2118CB475A9D56FBC76F.tmp' to 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/UI/WBP_MainMenu.uasset'
+[2019.05.12-18.08.09:787][769]Cmd: MAP LOAD FILE="D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/Maps/MainMenu_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.12-18.08.09:787][769]LightingResults: New page: Lighting Build
+[2019.05.12-18.08.09:788][769]LoadErrors: New page: Loading map: MainMenu_Map.umap
+[2019.05.12-18.08.09:794][769]MapCheck: New page: Map Check
+[2019.05.12-18.08.09:794][769]LightingResults: New page: Lighting Build
+[2019.05.12-18.08.09:896][769]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.12-18.08.09:940][769]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.12-18.08.10:020][769]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 80.147ms to complete.
+[2019.05.12-18.08.10:020][769]LogFileHelpers: Loading map 'MainMenu_Map' took 0.233
+[2019.05.12-18.08.13:424][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.12-18.08.13:516][169]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.12-18.08.13:530][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.12-18.08.13:530][169]PIE: New page: PIE session: MainMenu_Map (May 12, 2019, 4:08:13 AM)
+[2019.05.12-18.08.13:530][169]LogPlayLevel: Creating play world package: /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map
+[2019.05.12-18.08.13:534][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003652s)
+[2019.05.12-18.08.13:534][169]LogAIModule: Creating AISystem for world MainMenu_Map
+[2019.05.12-18.08.13:534][169]LogPlayLevel: PIE: World Init took: (0.000602s)
+[2019.05.12-18.08.13:534][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KnightCrasher/Maps/MainMenu_Map.MainMenu_Map to /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map.MainMenu_Map (0.004374s)
+[2019.05.12-18.08.13:569][169]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.12-18.08.13:603][169]LogInit: FAudioDevice initialized.
+[2019.05.12-18.08.13:612][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-18.08.13:647][169]LogLoad: Game class is 'MainMenu_Gamemode_C'
+[2019.05.12-18.08.13:652][169]LogWorld: Bringing World /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map.MainMenu_Map up for play (max tick rate 0) at 2019.05.12-11.08.13
+[2019.05.12-18.08.13:652][169]LogWorld: Bringing up level for play took: 0.003906
+[2019.05.12-18.08.13:693][169]PIE: Play in editor start time for /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map -0.832
+[2019.05.12-18.08.14:912][306]LogNet: Browse: /Game/KnightCrasher/Maps/Intro_Map
+[2019.05.12-18.08.14:918][306]LogLoad: LoadMap: /Game/KnightCrasher/Maps/Intro_Map
+[2019.05.12-18.08.17:374][306]LogAIModule: Creating AISystem for world Intro_Map
+[2019.05.12-18.08.17:375][306]LogLoad: Game class is 'KnightCrasher_Gamemode_C'
+[2019.05.12-18.08.17:394][306]LogWorld: Bringing World /Game/KnightCrasher/Maps/UEDPIE_0_Intro_Map.Intro_Map up for play (max tick rate 0) at 2019.05.12-11.08.17
+[2019.05.12-18.08.17:396][306]LogWorld: Bringing up level for play took: 0.018196
+[2019.05.12-18.08.17:419][306]LogLoad: Took 2.500501 seconds to LoadMap(/Game/KnightCrasher/Maps/Intro_Map)
+[2019.05.12-18.08.19:928][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-18.08.19:946][595]LogSlate: Window 'KnightCrasher Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.12-18.08.19:980][595]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.12-18.08.20:029][597]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.05.12-18.08.25:744][276]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/KnightCrasher/UI/WBP_MainMenu.WBP_MainMenu
+[2019.05.12-18.09.09:921][245]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.05.12-18.09.14:274][732]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.05.12-18.09.36:833][382]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.05.12-18.10.40:207][ 39]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.05.12-18.10.46:319][746]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.05.12-18.10.50:361][217]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.05.12-18.10.51:147][305]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.12-18.10.51:163][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.12-18.10.51:163][305]PIE: New page: PIE session: MainMenu_Map (May 12, 2019, 4:10:51 AM)
+[2019.05.12-18.10.51:163][305]LogPlayLevel: Creating play world package: /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map
+[2019.05.12-18.10.51:166][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002856s)
+[2019.05.12-18.10.51:167][305]LogAIModule: Creating AISystem for world MainMenu_Map
+[2019.05.12-18.10.51:167][305]LogPlayLevel: PIE: World Init took: (0.000683s)
+[2019.05.12-18.10.51:167][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KnightCrasher/Maps/MainMenu_Map.MainMenu_Map to /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map.MainMenu_Map (0.003644s)
+[2019.05.12-18.10.51:202][305]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.12-18.10.51:237][305]LogInit: FAudioDevice initialized.
+[2019.05.12-18.10.51:244][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-18.10.51:282][305]LogLoad: Game class is 'MainMenu_Gamemode_C'
+[2019.05.12-18.10.51:286][305]LogWorld: Bringing World /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map.MainMenu_Map up for play (max tick rate 0) at 2019.05.12-11.10.51
+[2019.05.12-18.10.51:287][305]LogWorld: Bringing up level for play took: 0.003482
+[2019.05.12-18.10.51:303][305]PIE: Play in editor start time for /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map 0.778
+[2019.05.12-18.10.52:447][393]LogNet: Browse: /Game/KnightCrasher/Maps/Intro_Map
+[2019.05.12-18.10.52:447][393]LogLoad: LoadMap: /Game/KnightCrasher/Maps/Intro_Map
+[2019.05.12-18.10.52:641][393]LogAIModule: Creating AISystem for world Intro_Map
+[2019.05.12-18.10.52:641][393]LogLoad: Game class is 'KnightCrasher_Gamemode_C'
+[2019.05.12-18.10.52:644][393]LogWorld: Bringing World /Game/KnightCrasher/Maps/UEDPIE_0_Intro_Map.Intro_Map up for play (max tick rate 0) at 2019.05.12-11.10.52
+[2019.05.12-18.10.52:645][393]LogWorld: Bringing up level for play took: 0.003053
+[2019.05.12-18.10.52:647][393]LogLoad: Took 0.199383 seconds to LoadMap(/Game/KnightCrasher/Maps/Intro_Map)
+[2019.05.12-18.10.53:819][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-18.10.53:834][508]LogSlate: Window 'KnightCrasher Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.12-18.10.53:869][508]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.12-18.10.53:917][509]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.05.12-18.10.54:911][626]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.05.12-18.11.06:813][ 18]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.05.12-18.11.07:393][ 80]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.12-18.11.07:409][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.12-18.11.07:409][ 80]PIE: New page: PIE session: MainMenu_Map (May 12, 2019, 4:11:07 AM)
+[2019.05.12-18.11.07:409][ 80]LogPlayLevel: Creating play world package: /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map
+[2019.05.12-18.11.07:412][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002888s)
+[2019.05.12-18.11.07:413][ 80]LogAIModule: Creating AISystem for world MainMenu_Map
+[2019.05.12-18.11.07:413][ 80]LogPlayLevel: PIE: World Init took: (0.000599s)
+[2019.05.12-18.11.07:413][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KnightCrasher/Maps/MainMenu_Map.MainMenu_Map to /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map.MainMenu_Map (0.003601s)
+[2019.05.12-18.11.07:447][ 80]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.12-18.11.07:480][ 80]LogInit: FAudioDevice initialized.
+[2019.05.12-18.11.07:488][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-18.11.07:526][ 80]LogLoad: Game class is 'MainMenu_Gamemode_C'
+[2019.05.12-18.11.07:530][ 80]LogWorld: Bringing World /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map.MainMenu_Map up for play (max tick rate 0) at 2019.05.12-11.11.07
+[2019.05.12-18.11.07:531][ 80]LogWorld: Bringing up level for play took: 0.003705
+[2019.05.12-18.11.07:548][ 80]PIE: Play in editor start time for /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map 1.023
+[2019.05.12-18.11.08:272][152]LogNet: Browse: /Game/KnightCrasher/Maps/Intro_Map
+[2019.05.12-18.11.08:272][152]LogLoad: LoadMap: /Game/KnightCrasher/Maps/Intro_Map
+[2019.05.12-18.11.08:453][152]LogAIModule: Creating AISystem for world Intro_Map
+[2019.05.12-18.11.08:454][152]LogLoad: Game class is 'KnightCrasher_Gamemode_C'
+[2019.05.12-18.11.08:457][152]LogWorld: Bringing World /Game/KnightCrasher/Maps/UEDPIE_0_Intro_Map.Intro_Map up for play (max tick rate 0) at 2019.05.12-11.11.08
+[2019.05.12-18.11.08:457][152]LogWorld: Bringing up level for play took: 0.002940
+[2019.05.12-18.11.08:459][152]LogLoad: Took 0.186253 seconds to LoadMap(/Game/KnightCrasher/Maps/Intro_Map)
+[2019.05.12-18.11.09:547][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-18.11.09:563][272]LogSlate: Window 'KnightCrasher Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.12-18.11.09:599][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.12-18.11.09:648][273]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.05.12-18.11.12:250][581]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/KnightCrasher/GameInstance_KnightCrasher.GameInstance_KnightCrasher
+[2019.05.12-18.11.19:476][401]BlueprintLog: New page: Compile GameInstance_KnightCrasher
+[2019.05.12-18.11.26:664][222]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.05.12-18.11.27:335][296]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.12-18.11.27:355][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.12-18.11.27:355][296]PIE: New page: PIE session: MainMenu_Map (May 12, 2019, 4:11:27 AM)
+[2019.05.12-18.11.27:355][296]LogPlayLevel: Creating play world package: /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map
+[2019.05.12-18.11.27:358][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002809s)
+[2019.05.12-18.11.27:358][296]LogAIModule: Creating AISystem for world MainMenu_Map
+[2019.05.12-18.11.27:358][296]LogPlayLevel: PIE: World Init took: (0.000629s)
+[2019.05.12-18.11.27:358][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KnightCrasher/Maps/MainMenu_Map.MainMenu_Map to /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map.MainMenu_Map (0.003551s)
+[2019.05.12-18.11.27:395][296]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.12-18.11.27:429][296]LogInit: FAudioDevice initialized.
+[2019.05.12-18.11.27:437][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-18.11.27:475][296]LogLoad: Game class is 'MainMenu_Gamemode_C'
+[2019.05.12-18.11.27:478][296]LogWorld: Bringing World /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map.MainMenu_Map up for play (max tick rate 0) at 2019.05.12-11.11.27
+[2019.05.12-18.11.27:480][296]LogWorld: Bringing up level for play took: 0.003674
+[2019.05.12-18.11.27:496][296]PIE: Play in editor start time for /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map 0.971
+[2019.05.12-18.11.31:196][694]LogNet: Browse: /Game/KnightCrasher/Maps/Intro_Map
+[2019.05.12-18.11.31:197][694]LogLoad: LoadMap: /Game/KnightCrasher/Maps/Intro_Map
+[2019.05.12-18.11.31:372][694]LogAIModule: Creating AISystem for world Intro_Map
+[2019.05.12-18.11.31:372][694]LogLoad: Game class is 'KnightCrasher_Gamemode_C'
+[2019.05.12-18.11.31:375][694]LogWorld: Bringing World /Game/KnightCrasher/Maps/UEDPIE_0_Intro_Map.Intro_Map up for play (max tick rate 0) at 2019.05.12-11.11.31
+[2019.05.12-18.11.31:375][694]LogWorld: Bringing up level for play took: 0.002957
+[2019.05.12-18.11.31:377][694]LogLoad: Took 0.180878 seconds to LoadMap(/Game/KnightCrasher/Maps/Intro_Map)
+[2019.05.12-18.11.33:606][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-18.11.33:622][941]LogSlate: Window 'KnightCrasher Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.12-18.11.33:657][941]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.12-18.11.33:706][942]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.05.12-18.11.36:411][263]BlueprintLog: New page: Compile WBP_MainMenu
+[2019.05.12-18.18.24:337][961]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/KnightCrasher/Maps/MainMenu_Map' took 0.025
+[2019.05.12-18.18.24:345][961]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KnightCrasher/GameInstance_KnightCrasher] ([1] browsable assets)...
+[2019.05.12-18.18.24:345][961]OBJ SavePackage: Finished generating thumbnails for package [/Game/KnightCrasher/GameInstance_KnightCrasher]
+[2019.05.12-18.18.24:371][961]LogSavePackage: Moving 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/GameInstance_KnightCrasher_Auto15083635E43C1EF8169C835B11BA1217A.tmp' to 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/Autosaves/Game/KnightCrasher/GameInstance_KnightCrasher_Auto1.uasset'
+[2019.05.12-18.18.24:373][961]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KnightCrasher/UI/WBP_MainMenu] ([1] browsable assets)...
+[2019.05.12-18.18.24:373][961]OBJ SavePackage: Finished generating thumbnails for package [/Game/KnightCrasher/UI/WBP_MainMenu]
+[2019.05.12-18.18.24:400][961]LogSavePackage: Moving 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/WBP_MainMenu_Auto1EC60A69F4139DF1BD06DA790746E6AB2.tmp' to 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/Autosaves/Game/KnightCrasher/UI/WBP_MainMenu_Auto1.uasset'
+[2019.05.12-18.18.24:401][961]LogFileHelpers: Auto-saving content packages took 0.063
+[2019.05.12-18.21.42:771][419]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/KnightCrasher/Character/CH_Knight.CH_Knight
+[2019.05.12-18.21.47:328][741]BlueprintLog: New page: Compile CH_Knight
+[2019.05.12-18.21.48:314][807]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.12-18.21.48:336][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.12-18.21.48:336][807]PIE: New page: PIE session: MainMenu_Map (May 12, 2019, 4:21:48 AM)
+[2019.05.12-18.21.48:336][807]LogPlayLevel: Creating play world package: /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map
+[2019.05.12-18.21.48:339][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003044s)
+[2019.05.12-18.21.48:340][807]LogAIModule: Creating AISystem for world MainMenu_Map
+[2019.05.12-18.21.48:340][807]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2019.05.12-18.21.48:340][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KnightCrasher/Maps/MainMenu_Map.MainMenu_Map to /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map.MainMenu_Map (0.003861s)
+[2019.05.12-18.21.48:377][807]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.12-18.21.48:412][807]LogInit: FAudioDevice initialized.
+[2019.05.12-18.21.48:419][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-18.21.48:456][807]LogLoad: Game class is 'MainMenu_Gamemode_C'
+[2019.05.12-18.21.48:459][807]LogWorld: Bringing World /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map.MainMenu_Map up for play (max tick rate 0) at 2019.05.12-11.21.48
+[2019.05.12-18.21.48:460][807]LogWorld: Bringing up level for play took: 0.003310
+[2019.05.12-18.21.48:478][807]PIE: Play in editor start time for /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map -0.046
+[2019.05.12-18.21.52:164][ 85]LogNet: Browse: /Game/KnightCrasher/Maps/Intro_Map
+[2019.05.12-18.21.52:165][ 85]LogLoad: LoadMap: /Game/KnightCrasher/Maps/Intro_Map
+[2019.05.12-18.21.52:346][ 85]LogAIModule: Creating AISystem for world Intro_Map
+[2019.05.12-18.21.52:346][ 85]LogLoad: Game class is 'KnightCrasher_Gamemode_C'
+[2019.05.12-18.21.52:350][ 85]LogWorld: Bringing World /Game/KnightCrasher/Maps/UEDPIE_0_Intro_Map.Intro_Map up for play (max tick rate 0) at 2019.05.12-11.21.52
+[2019.05.12-18.21.52:350][ 85]LogWorld: Bringing up level for play took: 0.003287
+[2019.05.12-18.21.52:352][ 85]LogLoad: Took 0.187431 seconds to LoadMap(/Game/KnightCrasher/Maps/Intro_Map)
+[2019.05.12-18.22.05:996][131]LogCharacterMovement: CH_BasicEnemy_3 is stuck and failed to move! Velocity: X=-145.30 Y=-43.53 Z=0.00 Location: X=1189.18 Y=-65.32 Z=98.21 Normal: X=-0.86 Y=-0.51 Z=0.00 PenetrationDepth:29.492 Actor:CH_Knight_C_0 Component:rightweapon BoneName:None (0 other events since notify)
+[2019.05.12-18.22.22:088][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-18.22.22:103][382]LogSlate: Window 'KnightCrasher Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.12-18.22.22:136][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.12-18.22.22:198][384]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.05.12-18.22.26:076][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KnightCrasher/UI/WBP_MainMenu" FILE="D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/UI/WBP_MainMenu.uasset" SILENT=true
+[2019.05.12-18.22.26:099][784]LogSavePackage: Moving 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/WBP_MainMenu9A122BA54EB167A3D0D143ADFE1FE39A.tmp' to 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/UI/WBP_MainMenu.uasset'
+[2019.05.12-18.22.52:520][887]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/KnightCrasher/UI/WBP_PlayerInfo.WBP_PlayerInfo
+[2019.05.12-18.24.10:738][512]LogSlate: Took 0.058552 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.05.12-18.24.43:315][750]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.12-18.24.53:941][489]LogEditorTransaction: Undo Set Vector Property
+[2019.05.12-18.25.15:382][987]BlueprintLog: New page: Compile WBP_PlayerInfo
+[2019.05.12-18.27.08:563][630]BlueprintLog: New page: Compile WBP_PlayerInfo
+[2019.05.12-18.28.21:580][463]BlueprintLog: New page: Compile WBP_PlayerInfo
+[2019.05.12-18.28.55:875][  1]LogTexture: Display: Building textures: icon_spell_00 (BGRA8, 256X256)
+[2019.05.12-18.28.55:881][  1]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/UI_Kit/Textures/icons/icon_spell_00.icon_spell_00
+[2019.05.12-18.28.56:128][  1]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.05.12-18.30.07:368][261]LogSlate: Window 'Save Asset As' being destroyed
+[2019.05.12-18.30.20:259][ 15]LogTexture: Display: Building textures: icon_spell_10 (BGRA8, 256X256)
+[2019.05.12-18.30.24:111][253]BlueprintLog: New page: Compile WBP_PlayerInfo
+[2019.05.12-18.30.26:030][369]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.12-18.30.26:054][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.12-18.30.26:054][369]PIE: New page: PIE session: MainMenu_Map (May 12, 2019, 4:30:26 AM)
+[2019.05.12-18.30.26:054][369]LogPlayLevel: Creating play world package: /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map
+[2019.05.12-18.30.26:057][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002951s)
+[2019.05.12-18.30.26:058][369]LogAIModule: Creating AISystem for world MainMenu_Map
+[2019.05.12-18.30.26:058][369]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2019.05.12-18.30.26:058][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KnightCrasher/Maps/MainMenu_Map.MainMenu_Map to /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map.MainMenu_Map (0.003797s)
+[2019.05.12-18.30.26:094][369]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.12-18.30.26:129][369]LogInit: FAudioDevice initialized.
+[2019.05.12-18.30.26:136][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-18.30.26:177][369]LogLoad: Game class is 'MainMenu_Gamemode_C'
+[2019.05.12-18.30.26:180][369]LogWorld: Bringing World /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map.MainMenu_Map up for play (max tick rate 0) at 2019.05.12-11.30.26
+[2019.05.12-18.30.26:181][369]LogWorld: Bringing up level for play took: 0.003590
+[2019.05.12-18.30.26:198][369]PIE: Play in editor start time for /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map -0.326
+[2019.05.12-18.30.29:972][586]LogNet: Browse: /Game/KnightCrasher/Maps/Intro_Map
+[2019.05.12-18.30.29:972][586]LogLoad: LoadMap: /Game/KnightCrasher/Maps/Intro_Map
+[2019.05.12-18.30.30:193][586]LogAIModule: Creating AISystem for world Intro_Map
+[2019.05.12-18.30.30:193][586]LogLoad: Game class is 'KnightCrasher_Gamemode_C'
+[2019.05.12-18.30.30:196][586]LogWorld: Bringing World /Game/KnightCrasher/Maps/UEDPIE_0_Intro_Map.Intro_Map up for play (max tick rate 0) at 2019.05.12-11.30.30
+[2019.05.12-18.30.30:197][586]LogWorld: Bringing up level for play took: 0.003042
+[2019.05.12-18.30.30:199][586]LogLoad: Took 0.226666 seconds to LoadMap(/Game/KnightCrasher/Maps/Intro_Map)
+[2019.05.12-18.30.31:736][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-18.30.31:751][677]LogSlate: Window 'KnightCrasher Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.12-18.30.31:781][677]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.12-18.30.31:835][678]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.05.12-18.30.33:090][754]BlueprintLog: New page: Compile WBP_PlayerInfo
+[2019.05.12-18.30.33:844][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KnightCrasher/UI/WBP_PlayerInfo" FILE="D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/UI/WBP_PlayerInfo.uasset" SILENT=true
+[2019.05.12-18.30.33:859][797]LogSavePackage: Moving 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/WBP_PlayerInfoBB392A7C4D1F5FB26F891BB4F6D248B4.tmp' to 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/UI/WBP_PlayerInfo.uasset'
+[2019.05.12-18.30.34:697][851]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.12-18.30.34:720][851]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.12-18.30.34:720][851]PIE: New page: PIE session: MainMenu_Map (May 12, 2019, 4:30:34 AM)
+[2019.05.12-18.30.34:720][851]LogPlayLevel: Creating play world package: /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map
+[2019.05.12-18.30.34:723][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002952s)
+[2019.05.12-18.30.34:724][851]LogAIModule: Creating AISystem for world MainMenu_Map
+[2019.05.12-18.30.34:724][851]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2019.05.12-18.30.34:724][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KnightCrasher/Maps/MainMenu_Map.MainMenu_Map to /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map.MainMenu_Map (0.003716s)
+[2019.05.12-18.30.34:762][851]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.12-18.30.34:796][851]LogInit: FAudioDevice initialized.
+[2019.05.12-18.30.34:805][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-18.30.34:844][851]LogLoad: Game class is 'MainMenu_Gamemode_C'
+[2019.05.12-18.30.34:848][851]LogWorld: Bringing World /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map.MainMenu_Map up for play (max tick rate 0) at 2019.05.12-11.30.34
+[2019.05.12-18.30.34:849][851]LogWorld: Bringing up level for play took: 0.004165
+[2019.05.12-18.30.34:868][851]PIE: Play in editor start time for /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map 0.343
+[2019.05.12-18.30.36:364][930]LogSlate: Window 'KnightCrasher Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.12-18.30.36:402][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.12-18.30.36:461][931]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.05.12-18.30.45:150][821]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/KnightCrasher/HUD_KnightCrasher.HUD_KnightCrasher
+[2019.05.12-18.31.17:846][496]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.12-18.31.44:140][388]BlueprintLog: New page: Compile HUD_KnightCrasher
+[2019.05.12-18.31.44:712][435]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.12-18.31.44:741][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.12-18.31.44:741][435]PIE: New page: PIE session: MainMenu_Map (May 12, 2019, 4:31:44 AM)
+[2019.05.12-18.31.44:741][435]LogPlayLevel: Creating play world package: /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map
+[2019.05.12-18.31.44:744][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002769s)
+[2019.05.12-18.31.44:744][435]LogAIModule: Creating AISystem for world MainMenu_Map
+[2019.05.12-18.31.44:744][435]LogPlayLevel: PIE: World Init took: (0.000564s)
+[2019.05.12-18.31.44:744][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KnightCrasher/Maps/MainMenu_Map.MainMenu_Map to /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map.MainMenu_Map (0.003440s)
+[2019.05.12-18.31.44:787][435]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.12-18.31.44:821][435]LogInit: FAudioDevice initialized.
+[2019.05.12-18.31.44:829][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-18.31.44:869][435]LogLoad: Game class is 'MainMenu_Gamemode_C'
+[2019.05.12-18.31.44:873][435]LogWorld: Bringing World /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map.MainMenu_Map up for play (max tick rate 0) at 2019.05.12-11.31.44
+[2019.05.12-18.31.44:874][435]LogWorld: Bringing up level for play took: 0.004244
+[2019.05.12-18.31.44:891][435]PIE: Play in editor start time for /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map 0.366
+[2019.05.12-18.31.48:547][801]LogNet: Browse: /Game/KnightCrasher/Maps/Intro_Map
+[2019.05.12-18.31.48:547][801]LogLoad: LoadMap: /Game/KnightCrasher/Maps/Intro_Map
+[2019.05.12-18.31.48:731][801]LogAIModule: Creating AISystem for world Intro_Map
+[2019.05.12-18.31.48:732][801]LogLoad: Game class is 'KnightCrasher_Gamemode_C'
+[2019.05.12-18.31.48:735][801]LogWorld: Bringing World /Game/KnightCrasher/Maps/UEDPIE_0_Intro_Map.Intro_Map up for play (max tick rate 0) at 2019.05.12-11.31.48
+[2019.05.12-18.31.48:735][801]LogWorld: Bringing up level for play took: 0.002955
+[2019.05.12-18.31.48:738][801]LogLoad: Took 0.190923 seconds to LoadMap(/Game/KnightCrasher/Maps/Intro_Map)
+[2019.05.12-18.31.53:343][277]LogCharacterMovement: CH_BasicEnemy_3 is stuck and failed to move! Velocity: X=-511.70 Y=-299.85 Z=0.00 Location: X=567.93 Y=505.68 Z=98.36 Normal: X=0.97 Y=-0.22 Z=0.00 PenetrationDepth:2.952 Actor:CH_Knight_C_0 Component:leftweapon BoneName:None (0 other events since notify)
+[2019.05.12-18.31.54:217][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-18.31.54:233][366]LogSlate: Window 'KnightCrasher Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.12-18.31.54:267][366]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.12-18.31.54:318][367]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.05.12-18.32.27:568][640]BlueprintLog: New page: Compile WBP_PlayerInfo
+[2019.05.12-18.32.28:089][667]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.12-18.32.28:116][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.12-18.32.28:116][667]PIE: New page: PIE session: MainMenu_Map (May 12, 2019, 4:32:28 AM)
+[2019.05.12-18.32.28:116][667]LogPlayLevel: Creating play world package: /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map
+[2019.05.12-18.32.28:119][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002888s)
+[2019.05.12-18.32.28:120][667]LogAIModule: Creating AISystem for world MainMenu_Map
+[2019.05.12-18.32.28:120][667]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2019.05.12-18.32.28:120][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KnightCrasher/Maps/MainMenu_Map.MainMenu_Map to /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map.MainMenu_Map (0.003961s)
+[2019.05.12-18.32.28:159][667]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.12-18.32.28:193][667]LogInit: FAudioDevice initialized.
+[2019.05.12-18.32.28:202][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-18.32.28:245][667]LogLoad: Game class is 'MainMenu_Gamemode_C'
+[2019.05.12-18.32.28:249][667]LogWorld: Bringing World /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map.MainMenu_Map up for play (max tick rate 0) at 2019.05.12-11.32.28
+[2019.05.12-18.32.28:250][667]LogWorld: Bringing up level for play took: 0.003334
+[2019.05.12-18.32.28:267][667]PIE: Play in editor start time for /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map -0.258
+[2019.05.12-18.32.31:856][873]LogNet: Browse: /Game/KnightCrasher/Maps/Intro_Map
+[2019.05.12-18.32.31:856][873]LogLoad: LoadMap: /Game/KnightCrasher/Maps/Intro_Map
+[2019.05.12-18.32.32:047][873]LogAIModule: Creating AISystem for world Intro_Map
+[2019.05.12-18.32.32:047][873]LogLoad: Game class is 'KnightCrasher_Gamemode_C'
+[2019.05.12-18.32.32:050][873]LogWorld: Bringing World /Game/KnightCrasher/Maps/UEDPIE_0_Intro_Map.Intro_Map up for play (max tick rate 0) at 2019.05.12-11.32.32
+[2019.05.12-18.32.32:051][873]LogWorld: Bringing up level for play took: 0.003140
+[2019.05.12-18.32.32:053][873]LogLoad: Took 0.196943 seconds to LoadMap(/Game/KnightCrasher/Maps/Intro_Map)
+[2019.05.12-18.32.35:283][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-18.32.35:299][ 62]LogSlate: Window 'KnightCrasher Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.12-18.32.35:333][ 62]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.12-18.32.35:390][ 63]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.05.12-18.33.01:410][835]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/KnightCrasher/Maps/MainMenu_Map' took 0.026
+[2019.05.12-18.33.01:412][835]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/KnightCrasher/Character/CH_Knight] ([1] browsable assets)...
+[2019.05.12-18.33.01:491][835]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/KnightCrasher/Character/CH_Knight.CH_Knight]
+[2019.05.12-18.33.01:491][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/KnightCrasher/Character/CH_Knight]
+[2019.05.12-18.33.01:670][835]LogSavePackage: Moving 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/CH_Knight_Auto25967057B4B09AABEBDFCCEB316A4577B.tmp' to 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/Autosaves/Game/KnightCrasher/Character/CH_Knight_Auto2.uasset'
+[2019.05.12-18.33.01:672][835]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KnightCrasher/HUD_KnightCrasher] ([1] browsable assets)...
+[2019.05.12-18.33.01:672][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/KnightCrasher/HUD_KnightCrasher]
+[2019.05.12-18.33.01:695][835]LogSavePackage: Moving 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/HUD_KnightCrasher_Auto234CDED9347091921BD25E69958C020BE.tmp' to 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/Autosaves/Game/KnightCrasher/HUD_KnightCrasher_Auto2.uasset'
+[2019.05.12-18.33.01:696][835]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KnightCrasher/UI/WBP_PlayerInfo] ([1] browsable assets)...
+[2019.05.12-18.33.01:696][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/KnightCrasher/UI/WBP_PlayerInfo]
+[2019.05.12-18.33.01:720][835]LogSavePackage: Moving 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/WBP_PlayerInfo_Auto26FB40DB04731C7AA6887969F2D20F43B.tmp' to 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/Autosaves/Game/KnightCrasher/UI/WBP_PlayerInfo_Auto2.uasset'
+[2019.05.12-18.33.01:720][835]LogFileHelpers: Auto-saving content packages took 0.310
+[2019.05.12-18.33.06:233][136]BlueprintLog: New page: Compile WBP_PlayerInfo
+[2019.05.12-18.33.06:805][167]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.12-18.33.06:830][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.12-18.33.06:830][167]PIE: New page: PIE session: MainMenu_Map (May 12, 2019, 4:33:06 AM)
+[2019.05.12-18.33.06:830][167]LogPlayLevel: Creating play world package: /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map
+[2019.05.12-18.33.06:833][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002773s)
+[2019.05.12-18.33.06:834][167]LogAIModule: Creating AISystem for world MainMenu_Map
+[2019.05.12-18.33.06:834][167]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2019.05.12-18.33.06:834][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KnightCrasher/Maps/MainMenu_Map.MainMenu_Map to /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map.MainMenu_Map (0.003549s)
+[2019.05.12-18.33.06:875][167]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.12-18.33.06:910][167]LogInit: FAudioDevice initialized.
+[2019.05.12-18.33.06:918][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-18.33.06:956][167]LogLoad: Game class is 'MainMenu_Gamemode_C'
+[2019.05.12-18.33.06:960][167]LogWorld: Bringing World /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map.MainMenu_Map up for play (max tick rate 0) at 2019.05.12-11.33.06
+[2019.05.12-18.33.06:961][167]LogWorld: Bringing up level for play took: 0.003902
+[2019.05.12-18.33.06:978][167]PIE: Play in editor start time for /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map 0.454
+[2019.05.12-18.33.10:688][382]LogNet: Browse: /Game/KnightCrasher/Maps/Intro_Map
+[2019.05.12-18.33.10:688][382]LogLoad: LoadMap: /Game/KnightCrasher/Maps/Intro_Map
+[2019.05.12-18.33.10:871][382]LogAIModule: Creating AISystem for world Intro_Map
+[2019.05.12-18.33.10:871][382]LogLoad: Game class is 'KnightCrasher_Gamemode_C'
+[2019.05.12-18.33.10:874][382]LogWorld: Bringing World /Game/KnightCrasher/Maps/UEDPIE_0_Intro_Map.Intro_Map up for play (max tick rate 0) at 2019.05.12-11.33.10
+[2019.05.12-18.33.10:874][382]LogWorld: Bringing up level for play took: 0.003124
+[2019.05.12-18.33.10:877][382]LogLoad: Took 0.188455 seconds to LoadMap(/Game/KnightCrasher/Maps/Intro_Map)
+[2019.05.12-18.33.17:512][774]LogCharacterMovement: CH_BasicEnemy_3 is stuck and failed to move! Velocity: X=32.92 Y=-7.43 Z=0.00 Location: X=-142.82 Y=130.95 Z=98.15 Normal: X=-0.46 Y=0.89 Z=0.00 PenetrationDepth:7.010 Actor:CH_Knight_C_0 Component:CharacterMesh0 BoneName:shoulderPad_l (0 other events since notify)
+[2019.05.12-18.33.17:942][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-18.33.17:958][800]LogSlate: Window 'KnightCrasher Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.12-18.33.17:994][800]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.12-18.33.18:048][801]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.05.12-18.33.36:457][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KnightCrasher/HUD_KnightCrasher" FILE="D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/HUD_KnightCrasher.uasset" SILENT=true
+[2019.05.12-18.33.36:477][815]LogSavePackage: Moving 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/HUD_KnightCrasherA56258F9447BC62DCB257B91EB864D24.tmp' to 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/HUD_KnightCrasher.uasset'
+[2019.05.12-18.33.42:307][497]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.12-18.33.42:333][497]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.12-18.33.42:333][497]PIE: New page: PIE session: MainMenu_Map (May 12, 2019, 4:33:42 AM)
+[2019.05.12-18.33.42:333][497]LogPlayLevel: Creating play world package: /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map
+[2019.05.12-18.33.42:336][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002996s)
+[2019.05.12-18.33.42:336][497]LogAIModule: Creating AISystem for world MainMenu_Map
+[2019.05.12-18.33.42:336][497]LogPlayLevel: PIE: World Init took: (0.000583s)
+[2019.05.12-18.33.42:337][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KnightCrasher/Maps/MainMenu_Map.MainMenu_Map to /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map.MainMenu_Map (0.003689s)
+[2019.05.12-18.33.42:377][497]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.12-18.33.42:412][497]LogInit: FAudioDevice initialized.
+[2019.05.12-18.33.42:419][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-18.33.42:458][497]LogLoad: Game class is 'MainMenu_Gamemode_C'
+[2019.05.12-18.33.42:461][497]LogWorld: Bringing World /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map.MainMenu_Map up for play (max tick rate 0) at 2019.05.12-11.33.42
+[2019.05.12-18.33.42:462][497]LogWorld: Bringing up level for play took: 0.003327
+[2019.05.12-18.33.42:478][497]PIE: Play in editor start time for /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map -0.046
+[2019.05.12-18.33.45:882][899]LogNet: Browse: /Game/KnightCrasher/Maps/Intro_Map
+[2019.05.12-18.33.45:882][899]LogLoad: LoadMap: /Game/KnightCrasher/Maps/Intro_Map
+[2019.05.12-18.33.46:065][899]LogAIModule: Creating AISystem for world Intro_Map
+[2019.05.12-18.33.46:066][899]LogLoad: Game class is 'KnightCrasher_Gamemode_C'
+[2019.05.12-18.33.46:069][899]LogWorld: Bringing World /Game/KnightCrasher/Maps/UEDPIE_0_Intro_Map.Intro_Map up for play (max tick rate 0) at 2019.05.12-11.33.46
+[2019.05.12-18.33.46:070][899]LogWorld: Bringing up level for play took: 0.003180
+[2019.05.12-18.33.46:072][899]LogLoad: Took 0.190278 seconds to LoadMap(/Game/KnightCrasher/Maps/Intro_Map)
+[2019.05.12-18.33.57:054][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-18.33.57:070][214]LogSlate: Window 'KnightCrasher Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.12-18.33.57:098][214]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.12-18.33.57:159][216]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.05.12-18.34.21:592][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.12-18.34.39:144][202]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.12-18.34.40:715][389]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.12-18.34.45:752][991]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.12-18.34.53:567][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.12-18.34.54:931][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.12-18.34.55:956][164]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.12-18.35.01:773][855]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.12-18.35.04:242][147]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.12-18.35.13:108][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.12-18.35.19:569][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.12-18.35.37:218][701]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.12-18.35.38:455][826]LogSavePackage: Moving 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/MainMenu_MapECDA7112464A2738EADB729FF93AD584.tmp' to 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/Maps/MainMenu_Map.umap'
+[2019.05.12-18.35.38:562][826]LogSavePackage: Moving 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/MainMenu_Map_BuiltData92F9770B42A6299C7F7EA6BB37CD275F.tmp' to 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/Maps/MainMenu_Map_BuiltData.uasset'
+[2019.05.12-18.35.57:709][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.12-18.35.57:901][ 49]LogSavePackage: Moving 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/MainMenu_Map2310C7C04B1636499B2CA99F23AE59F1.tmp' to 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/Maps/MainMenu_Map.umap'
+[2019.05.12-18.35.58:002][ 49]LogSavePackage: Moving 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/MainMenu_Map_BuiltDataBB4D54F84DCB70EDB91C3A9E00EB6F60.tmp' to 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/Maps/MainMenu_Map_BuiltData.uasset'
+[2019.05.12-18.36.01:202][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.12-18.36.01:269][436]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.12-18.36.01:294][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.12-18.36.01:294][436]PIE: New page: PIE session: MainMenu_Map (May 12, 2019, 4:36:01 AM)
+[2019.05.12-18.36.01:294][436]LogPlayLevel: Creating play world package: /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map
+[2019.05.12-18.36.01:297][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002907s)
+[2019.05.12-18.36.01:297][436]LogAIModule: Creating AISystem for world MainMenu_Map
+[2019.05.12-18.36.01:298][436]LogPlayLevel: PIE: World Init took: (0.000591s)
+[2019.05.12-18.36.01:298][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KnightCrasher/Maps/MainMenu_Map.MainMenu_Map to /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map.MainMenu_Map (0.003604s)
+[2019.05.12-18.36.01:336][436]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.12-18.36.01:372][436]LogInit: FAudioDevice initialized.
+[2019.05.12-18.36.01:381][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-18.36.01:424][436]LogLoad: Game class is 'MainMenu_Gamemode_C'
+[2019.05.12-18.36.01:432][436]LogWorld: Bringing World /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map.MainMenu_Map up for play (max tick rate 0) at 2019.05.12-11.36.01
+[2019.05.12-18.36.01:433][436]LogWorld: Bringing up level for play took: 0.006996
+[2019.05.12-18.36.01:453][436]PIE: Play in editor start time for /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map 0.929
+[2019.05.12-18.36.06:769][ 63]LogNet: Browse: /Game/KnightCrasher/Maps/Intro_Map
+[2019.05.12-18.36.06:769][ 63]LogLoad: LoadMap: /Game/KnightCrasher/Maps/Intro_Map
+[2019.05.12-18.36.06:948][ 63]LogAIModule: Creating AISystem for world Intro_Map
+[2019.05.12-18.36.06:948][ 63]LogLoad: Game class is 'KnightCrasher_Gamemode_C'
+[2019.05.12-18.36.06:952][ 63]LogWorld: Bringing World /Game/KnightCrasher/Maps/UEDPIE_0_Intro_Map.Intro_Map up for play (max tick rate 0) at 2019.05.12-11.36.06
+[2019.05.12-18.36.06:952][ 63]LogWorld: Bringing up level for play took: 0.003080
+[2019.05.12-18.36.06:954][ 63]LogLoad: Took 0.185081 seconds to LoadMap(/Game/KnightCrasher/Maps/Intro_Map)
+[2019.05.12-18.36.10:211][452]LogCharacterMovement: CH_BasicEnemy_3 is stuck and failed to move! Velocity: X=-71.46 Y=-46.65 Z=0.00 Location: X=605.86 Y=112.05 Z=96.15 Normal: X=-0.26 Y=0.75 Z=-0.61 PenetrationDepth:4.191 Actor:CH_Knight_C_0 Component:rightweapon BoneName:None (0 other events since notify)
+[2019.05.12-18.36.15:751][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-18.36.15:766][116]LogSlate: Window 'KnightCrasher Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.12-18.36.15:797][116]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.12-18.36.15:853][118]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.05.12-18.36.27:570][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.12-18.36.34:084][277]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/KnightCrasher/AI/BasicEnemy/BTService_SetRandomLocation.BTService_SetRandomLocation
+[2019.05.12-18.38.02:566][821]LogSlate: Window 'BTService_SetRandomLocation' being destroyed
+[2019.05.12-18.38.02:570][821]LogSlate: Window 'BTService_SetRandomLocation' being destroyed
+[2019.05.12-18.38.03:032][821]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.12-18.38.06:167][174]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/KnightCrasher/AI/BasicEnemy/CH_BasicEnemy.CH_BasicEnemy
+[2019.05.12-18.38.23:326][ 23]BlueprintLog: New page: Compile CH_BasicEnemy
+[2019.05.12-18.38.33:539][201]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/KnightCrasher/Character/CH_Knight.CH_Knight
+[2019.05.12-18.38.53:070][842]BlueprintLog: New page: Compile CH_Knight
+[2019.05.12-18.39.05:267][877]BlueprintLog: New page: Compile CH_Knight
+[2019.05.12-18.39.17:005][931]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.12-18.39.17:032][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.12-18.39.17:032][931]PIE: New page: PIE session: MainMenu_Map (May 12, 2019, 4:39:17 AM)
+[2019.05.12-18.39.17:032][931]LogPlayLevel: Creating play world package: /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map
+[2019.05.12-18.39.17:035][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002818s)
+[2019.05.12-18.39.17:036][931]LogAIModule: Creating AISystem for world MainMenu_Map
+[2019.05.12-18.39.17:036][931]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2019.05.12-18.39.17:036][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KnightCrasher/Maps/MainMenu_Map.MainMenu_Map to /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map.MainMenu_Map (0.003592s)
+[2019.05.12-18.39.17:069][931]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.12-18.39.17:104][931]LogInit: FAudioDevice initialized.
+[2019.05.12-18.39.17:112][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-18.39.17:151][931]LogLoad: Game class is 'MainMenu_Gamemode_C'
+[2019.05.12-18.39.17:155][931]LogWorld: Bringing World /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map.MainMenu_Map up for play (max tick rate 0) at 2019.05.12-11.39.17
+[2019.05.12-18.39.17:155][931]LogWorld: Bringing up level for play took: 0.003681
+[2019.05.12-18.39.17:175][931]PIE: Play in editor start time for /Game/KnightCrasher/Maps/UEDPIE_0_MainMenu_Map 0.65
+[2019.05.12-18.39.18:291][ 53]LogSlate: Window 'KnightCrasher Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.12-18.39.18:327][ 53]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.12-18.39.18:387][ 56]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.05.12-18.39.21:359][390]LogAIModule: Creating AISystem for world Intro_Map
+[2019.05.12-18.39.21:363][390]LogAssetEditorManager: Opening Asset editor for World /Game/KnightCrasher/Maps/Intro_Map.Intro_Map
+[2019.05.12-18.39.22:489][390]LogSlate: Window 'Save Content' being destroyed
+[2019.05.12-18.39.22:546][390]LogSavePackage: Moving 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/CH_BasicEnemyE903E8F34E06748AA2232B931B2FD8B5.tmp' to 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/AI/BasicEnemy/CH_BasicEnemy.uasset'
+[2019.05.12-18.39.22:558][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KnightCrasher/Character/CH_Knight" FILE="D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/Character/CH_Knight.uasset" SILENT=true
+[2019.05.12-18.39.22:643][390]LogSavePackage: Moving 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/CH_Knight0AA5A7594BF8F7F11C32B8A232E4E0FA.tmp' to 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/Character/CH_Knight.uasset'
+[2019.05.12-18.39.22:669][390]LogSavePackage: Moving 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/GameInstance_KnightCrasher5DBAADF14545F1826D026B8152B0AFFD.tmp' to 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/GameInstance_KnightCrasher.uasset'
+[2019.05.12-18.39.22:674][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KnightCrasher/UI/WBP_PlayerInfo" FILE="D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/UI/WBP_PlayerInfo.uasset" SILENT=true
+[2019.05.12-18.39.22:697][390]LogSavePackage: Moving 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/WBP_PlayerInfoC2488AA047F2548B56A52592E7DCD389.tmp' to 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/UI/WBP_PlayerInfo.uasset'
+[2019.05.12-18.39.22:701][390]Cmd: MAP LOAD FILE="D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/Maps/Intro_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.12-18.39.22:701][390]LightingResults: New page: Lighting Build
+[2019.05.12-18.39.22:701][390]LoadErrors: New page: Loading map: Intro_Map.umap
+[2019.05.12-18.39.22:702][390]MapCheck: New page: Map Check
+[2019.05.12-18.39.22:702][390]LightingResults: New page: Lighting Build
+[2019.05.12-18.39.22:796][390]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.12-18.39.22:845][390]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.12-18.39.22:927][390]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 81.864ms to complete.
+[2019.05.12-18.39.22:950][390]LogFileHelpers: Loading map 'Intro_Map' took 0.251
+[2019.05.12-18.39.23:455][442]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.12-18.39.23:478][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.12-18.39.23:479][442]PIE: New page: PIE session: Intro_Map (May 12, 2019, 4:39:23 AM)
+[2019.05.12-18.39.23:479][442]LogPlayLevel: Creating play world package: /Game/KnightCrasher/Maps/UEDPIE_0_Intro_Map
+[2019.05.12-18.39.23:482][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003334s)
+[2019.05.12-18.39.23:483][442]LogAIModule: Creating AISystem for world Intro_Map
+[2019.05.12-18.39.23:483][442]LogPlayLevel: PIE: World Init took: (0.000581s)
+[2019.05.12-18.39.23:483][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KnightCrasher/Maps/Intro_Map.Intro_Map to /Game/KnightCrasher/Maps/UEDPIE_0_Intro_Map.Intro_Map (0.004026s)
+[2019.05.12-18.39.23:520][442]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.12-18.39.23:555][442]LogInit: FAudioDevice initialized.
+[2019.05.12-18.39.23:562][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-18.39.23:596][442]LogLoad: Game class is 'KnightCrasher_Gamemode_C'
+[2019.05.12-18.39.23:599][442]LogWorld: Bringing World /Game/KnightCrasher/Maps/UEDPIE_0_Intro_Map.Intro_Map up for play (max tick rate 0) at 2019.05.12-11.39.23
+[2019.05.12-18.39.23:599][442]LogWorld: Bringing up level for play took: 0.002210
+[2019.05.12-18.39.23:616][442]PIE: Play in editor start time for /Game/KnightCrasher/Maps/UEDPIE_0_Intro_Map 1.091
+[2019.05.12-18.39.52:545][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.12-18.39.52:562][904]LogSlate: Window 'KnightCrasher Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.12-18.39.52:599][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.12-18.39.52:652][906]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.05.12-18.40.04:129][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pl_16m_Platform2)
+[2019.05.12-18.40.16:524][710]LogEditorViewport: Clicking on Actor (LMB): CH_BasicEnemy_C (CH_BasicEnemy)
+[2019.05.12-18.47.57:588][700]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.12-18.48.28:380][119]BlueprintLog: New page: Compile CH_BasicEnemy
+[2019.05.12-18.48.31:723][458]BlueprintLog: New page: Compile CH_BasicEnemy
+[2019.05.12-18.49.30:627][605]BlueprintLog: New page: Compile CH_BasicEnemy
+[2019.05.12-18.49.37:986][429]LogSavePackage: Moving 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/CH_BasicEnemy744B95604C221C954698D3811A966B63.tmp' to 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/AI/BasicEnemy/CH_BasicEnemy.uasset'
+[2019.05.12-18.50.14:706][955]LogSavePackage: Moving 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/Intro_Map_Auto320E8A4E34BDEEF6F9A58D0BF4803F778.tmp' to 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/Autosaves/Game/KnightCrasher/Maps/Intro_Map_Auto3.umap'
+[2019.05.12-18.50.14:709][955]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/KnightCrasher/Maps/Intro_Map' took 0.083
+[2019.05.12-18.50.14:709][955]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.083
+[2019.05.12-18.56.01:891][328]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.12-18.56.05:100][588]BlueprintLog: New page: Compile CH_BasicEnemy
+[2019.05.12-18.59.22:042][615]BlueprintLog: New page: Compile CH_BasicEnemy
+[2019.05.12-18.59.23:427][737]LogSlate: Window 'CH_Knight' being destroyed
+[2019.05.12-18.59.23:431][737]LogSlate: Window 'CH_Knight' being destroyed
+[2019.05.12-18.59.23:506][737]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.12-18.59.24:351][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.12-18.59.25:444][829]LogSlate: Window 'Save Content' being destroyed
+[2019.05.12-18.59.25:628][829]LogSavePackage: Moving 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Saved/Intro_MapC49DA47240A3FE08BAF569826DA715A1.tmp' to 'D:/Users/97randy/Documents/GitHub/Knight-Crasher/KnightCrasher/Content/KnightCrasher/Maps/Intro_Map.umap'
+[2019.05.12-18.59.25:658][829]LogFileHelpers: Saving map 'Intro_Map' took 0.198
+>>>>>>> Stashed changes
