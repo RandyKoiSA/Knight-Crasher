@@ -1,1 +1,1 @@
-../../../KnightCrasher/KnightCrasher.uproject  /Game/KnightCrasher/Maps/Intro_Map -Messaging -SessionId=2EB8CBD2467085F786509493168689D3 -SessionOwner="97randy" -SessionName="Launch On Device" -iterative
+../../../KnightCrasher/KnightCrasher.uproject  /Game/KnightCrasher/Maps/MainMenu_Map -Messaging -SessionId=551D29BF45F171791BDBCB8FEAA8BE97 -SessionOwner="97randy" -SessionName="Launch On Device" -iterative
